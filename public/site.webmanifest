@@ -1,0 +1,17 @@
+{
+  "name": "MAXXY.MOV — Short-Form Video Editor",
+  "short_name": "MAXXY.MOV",
+  "description": "Short-form video editor specialising in Reels, YouTube Shorts and podcast clips.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
